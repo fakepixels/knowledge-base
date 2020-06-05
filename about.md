@@ -5,18 +5,14 @@ permalink: /about/
 content-type: eg
 ---
 
-Hello!!!
+## Here I am.
 
----
+This garden is inspired by the brilliant [[Raghu:https://twitter.com/raghuveerdotnet]]. 
 
-## Reach out to me
+We've come so far for a beautiful software, and now we want to start from the beginning. I want a simple place to keep track of my learning, and flexible enough to play with new stuff. This looks like a friendly and functional playground.
 
-[[Twitter::https://twitter.com/raghuveerdotnet]] – Shoot me a dm or just tweet ***@raghuveerdotnet***. I will try to reply as soon as I can. Sadly, I am not available on any other social media sites. I am not really into professional social media circle but anyway here is my [[linkedin::https://www.linkedin.com/in/sraghuveer/]] just in case.
+[[Twitter::https://twitter.com/fkpxls]] – Shoot me a dm or just tweet ***@fkpxls***. I will try to reply as soon as I can. 
     
-Bangalore is pretty large, so I can’t promise but If you happen to be in Bangalore by chance and want to chat, drop an email([[raghu@raghuveer.net::mailto:raghu@raghuveer.net]]) and include [Coffee] in the subject line, and we can work something out.
-
-If you like anything about who I am or what I do, please do follow me or reach out to me. Don’t hesitate.
-
 ---
 
 ## About the website

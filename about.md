@@ -5,12 +5,7 @@ permalink: /about/
 content-type: eg
 ---
 
-As of now, I am a programmer with expertise in System Programming (especially C++), who is also interested in Computer Graphics, Compiler Design, and Some Embedded Systems. [[Here::https://github.com/raghuveerdotnet]] is my coding scratchpad if you are interested.
-
-Over the course of time, I have developed interest in many things including cognitive science, mathematics, and philosophy; and my personal penchant is to one day create a software system that I call the CogShell (Short for the  Cognitive Shell[[See my writeup on it: [here](/posts/cogshell)::rsn]]): A highly interconnnected software toolkit with all the essential tools to support thought continuity through tacit object permanance.
-
-
-I have a podcast by the same name called the "[[Knowledge Continuum::https://open.spotify.com/show/5zR7IUdCZAtP0m4Ef8bMgs]]".
+Hello!!!
 
 ---
 
@@ -64,7 +59,7 @@ Other Details:
 
 ### FAQ
 
-[[**First Design**<img src="/assets/img/firstdesign.jpg"/>::lmn]]Why is the website structured the way it is?
+[[**First Design**<img src="/assets/img/firstoutreach.jpg"/>::lmn]]Why is the website structured the way it is?
 
 {:.boxit}
 > The design of the website is inspired by multiple sources with the intention of making the website more functional. Having said that, I am not a skilled front-end developer/UI-developer, so I could only come somewhat closer to my inital design that I sketched *(see left or click on this &#8853; icon beside the question above if you are on a mobile device)*, hopefully this will clear why it's structured the way it is. In fact, I had to remove the lab option because of my current inability to design it. That said, I can also safely say that I am improving based on the initial iterations of the website that can be seen here: [[Jan-22-2020::https://web.archive.org/web/20200122164405/raghuveer.net]], [[Apr-13-2020::https://web.archive.org/web/20200413193808/raghuveer.net]], [[Apr-20-2020::https://web.archive.org/web/20200420172058/raghuveer.net]]
